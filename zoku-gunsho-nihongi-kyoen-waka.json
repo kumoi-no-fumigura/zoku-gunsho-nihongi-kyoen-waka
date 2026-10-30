@@ -88,7 +88,72 @@
    "series": "続群書類従",
    "publisher": "",
    "year": null,
-   "pages": ""
+   "pages": "",
+   "viewers": [
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734039",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090",
+    "https://www.digital.archives.go.jp/item/734090"
+   ]
   }
  ],
  "status": "未校正",
@@ -461,7 +526,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0032",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     33
    ],
@@ -470,7 +535,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0033",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     34
    ],
@@ -479,7 +544,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0034",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     35
    ],
@@ -491,7 +556,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0035",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     36
    ],
@@ -505,7 +570,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0036",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     37
    ],
@@ -520,7 +585,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0037",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     38
    ],
@@ -532,7 +597,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0038",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     39
    ],
@@ -544,7 +609,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0039",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     40
    ],
@@ -556,7 +621,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0040",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     41
    ],
@@ -567,7 +632,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0041",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     42
    ],
@@ -580,7 +645,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0042",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     43
    ],
@@ -592,7 +657,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0043",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     44
    ],
@@ -605,7 +670,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0044",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     45
    ],
@@ -617,7 +682,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0045",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     46
    ],
@@ -628,7 +693,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0046",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     47
    ],
@@ -639,7 +704,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0047",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     48
    ],
@@ -652,7 +717,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0048",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     49
    ],
@@ -664,7 +729,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0049",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     50
    ],
@@ -675,7 +740,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0050",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     51
    ],
@@ -687,7 +752,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0051",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     52
    ],
@@ -699,7 +764,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0052",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     53
    ],
@@ -711,7 +776,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0053",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     54
    ],
@@ -724,7 +789,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0054",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     55
    ],
@@ -736,7 +801,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0055",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     56
    ],
@@ -747,7 +812,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0056",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     57
    ],
@@ -756,7 +821,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0057",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     58
    ],
@@ -765,7 +830,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0058",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     59
    ],
@@ -779,7 +844,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0059",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     60
    ],
@@ -790,7 +855,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0060",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     61
    ],
@@ -801,7 +866,7 @@
   },
   {
    "id": "zoku-gunsho-nihongi-kyoen-waka-0061",
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "pages": [
     62
    ],
@@ -1586,7 +1651,7 @@
    "kana": "",
    "speaker": "橘朝臣直翰",
    "page": 35,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1600,7 +1665,7 @@
    "kana": "",
    "speaker": "習諸典籍",
    "page": 35,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1614,7 +1679,7 @@
    "kana": "",
    "speaker": "",
    "page": 36,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1628,7 +1693,7 @@
    "kana": "",
    "speaker": "",
    "page": 36,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1642,7 +1707,7 @@
    "kana": "",
    "speaker": "",
    "page": 36,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1656,7 +1721,7 @@
    "kana": "",
    "speaker": "血染其矢",
    "page": 36,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1670,7 +1735,7 @@
    "kana": "",
    "speaker": "",
    "page": 37,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1684,7 +1749,7 @@
    "kana": "",
    "speaker": "",
    "page": 37,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1698,7 +1763,7 @@
    "kana": "",
    "speaker": "",
    "page": 37,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1712,7 +1777,7 @@
    "kana": "",
    "speaker": "",
    "page": 37,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1726,7 +1791,7 @@
    "kana": "",
    "speaker": "",
    "page": 37,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1740,7 +1805,7 @@
    "kana": "",
    "speaker": "",
    "page": 38,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1754,7 +1819,7 @@
    "kana": "",
    "speaker": "頭朴於庭",
    "page": 38,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1768,7 +1833,7 @@
    "kana": "",
    "speaker": "三統宿祢公忠",
    "page": 39,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1782,7 +1847,7 @@
    "kana": "",
    "speaker": "脱従一字乎",
    "page": 39,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1796,7 +1861,7 @@
    "kana": "",
    "speaker": "浦島",
    "page": 40,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1810,7 +1875,7 @@
    "kana": "",
    "speaker": "",
    "page": 40,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1824,7 +1889,7 @@
    "kana": "",
    "speaker": "一日贄土師部",
    "page": 41,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1838,7 +1903,7 @@
    "kana": "",
    "speaker": "",
    "page": 42,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1852,7 +1917,7 @@
    "kana": "",
    "speaker": "",
    "page": 42,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1866,7 +1931,7 @@
    "kana": "",
    "speaker": "出雲州",
    "page": 42,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1880,7 +1945,7 @@
    "kana": "",
    "speaker": "紀伊介橘朝臣実利",
    "page": 43,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1894,7 +1959,7 @@
    "kana": "",
    "speaker": "",
    "page": 43,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1908,7 +1973,7 @@
    "kana": "",
    "speaker": "遣直岐",
    "page": 44,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1922,7 +1987,7 @@
    "kana": "",
    "speaker": "",
    "page": 44,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1936,7 +2001,7 @@
    "kana": "",
    "speaker": "",
    "page": 44,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1950,7 +2015,7 @@
    "kana": "",
    "speaker": "",
    "page": 45,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1964,7 +2029,7 @@
    "kana": "",
    "speaker": "大江朝臣朝綱",
    "page": 45,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1978,7 +2043,7 @@
    "kana": "",
    "speaker": "",
    "page": 46,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -1992,7 +2057,7 @@
    "kana": "",
    "speaker": "莫見",
    "page": 47,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2006,7 +2071,7 @@
    "kana": "",
    "speaker": "近江守源朝臣公忠",
    "page": 48,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2020,7 +2085,7 @@
    "kana": "",
    "speaker": "",
    "page": 48,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2034,7 +2099,7 @@
    "kana": "",
    "speaker": "",
    "page": 48,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2048,7 +2113,7 @@
    "kana": "",
    "speaker": "一郷食",
    "page": 49,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2062,7 +2127,7 @@
    "kana": "",
    "speaker": "",
    "page": 49,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2076,7 +2141,7 @@
    "kana": "",
    "speaker": "亦問",
    "page": 50,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2090,7 +2155,7 @@
    "kana": "",
    "speaker": "",
    "page": 51,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2104,7 +2169,7 @@
    "kana": "",
    "speaker": "",
    "page": 51,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2118,7 +2183,7 @@
    "kana": "",
    "speaker": "",
    "page": 52,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2132,7 +2197,7 @@
    "kana": "",
    "speaker": "紀権守源朝臣庶明",
    "page": 52,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2146,7 +2211,7 @@
    "kana": "",
    "speaker": "播磨守伴朝臣保平",
    "page": 53,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2160,7 +2225,7 @@
    "kana": "",
    "speaker": "無船",
    "page": 53,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2174,7 +2239,7 @@
    "kana": "",
    "speaker": "中納言源朝臣清蔭",
    "page": 54,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2188,7 +2253,7 @@
    "kana": "",
    "speaker": "藤原朝臣師尹",
    "page": 54,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2202,7 +2267,7 @@
    "kana": "",
    "speaker": "",
    "page": 54,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2216,7 +2281,7 @@
    "kana": "",
    "speaker": "中務卿重明",
    "page": 55,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2230,7 +2295,7 @@
    "kana": "",
    "speaker": "",
    "page": 55,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2244,7 +2309,7 @@
    "kana": "",
    "speaker": "",
    "page": 56,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2258,7 +2323,7 @@
    "kana": "",
    "speaker": "講博士伊",
    "page": 59,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2272,7 +2337,7 @@
    "kana": "",
    "speaker": "",
    "page": 59,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2286,7 +2351,7 @@
    "kana": "",
    "speaker": "",
    "page": 59,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2300,7 +2365,7 @@
    "kana": "",
    "speaker": "",
    "page": 59,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2314,7 +2379,7 @@
    "kana": "",
    "speaker": "此曰努",
    "page": 60,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
@@ -2328,7 +2393,7 @@
    "kana": "",
    "speaker": "",
    "page": 61,
-   "pid": "nao-734090",
+   "pid": "nao-734039",
    "form": "短歌",
    "genre": "",
    "ban": "",
